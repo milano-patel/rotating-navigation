@@ -1,4 +1,4 @@
-## Progress Animation
+## Rotating Navigation
 
 Rotating navigation design using CSS and Javascript.
 
